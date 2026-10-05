@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smit Chaudhari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Product Design from India</h3>
 
 - 🔭 I’m currently working on [VoxDesk](https://github.com/SmitChaudhari26/VoxDesk.git)
-
-- 🌱 I’m currently learning **MERN Stack,.NET**
 
 - 📫 How to reach me **smitchaudhari2601@gmail.com**
 
